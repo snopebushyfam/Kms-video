@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Steht",
+    "start": 0.03,
+    "end": 0.28,
+    "id": "w0"
+  },
+  {
+    "text": "ein",
+    "start": 0.3,
+    "end": 0.48,
+    "id": "w1"
+  },
+  {
+    "text": "Termin",
+    "start": 0.48,
+    "end": 0.84,
+    "id": "w2"
+  },
+  {
+    "text": "in",
+    "start": 0.84,
+    "end": 0.96,
+    "id": "w3"
+  },
+  {
+    "text": "der",
+    "start": 0.96,
+    "end": 1.12,
+    "id": "w4"
+  },
+  {
+    "text": "E-Mail,",
+    "start": 1.14,
+    "end": 1.62,
+    "id": "w5"
+  },
+  {
+    "text": "trägst",
+    "start": 1.62,
+    "end": 1.98,
+    "id": "w6"
+  },
+  {
+    "text": "du",
+    "start": 1.98,
+    "end": 2.1,
+    "id": "w7"
+  },
+  {
+    "text": "ihn",
+    "start": 2.1,
+    "end": 2.28,
+    "id": "w8"
+  },
+  {
+    "text": "mit",
+    "start": 2.28,
+    "end": 2.41,
+    "id": "w9"
+  },
+  {
+    "text": "einem",
+    "start": 2.57,
+    "end": 2.76,
+    "id": "w10"
+  },
+  {
+    "text": "Klick",
+    "start": 2.76,
+    "end": 3.06,
+    "id": "w11"
+  },
+  {
+    "text": "in",
+    "start": 3.13,
+    "end": 3.22,
+    "id": "w12"
+  },
+  {
+    "text": "den",
+    "start": 3.22,
+    "end": 3.44,
+    "id": "w13"
+  },
+  {
+    "text": "Kalender",
+    "start": 3.44,
+    "end": 4.03,
+    "id": "w14"
+  },
+  {
+    "text": "ein.",
+    "start": 4.03,
+    "end": 4.25,
+    "id": "w15"
+  },
+  {
+    "text": "Die",
+    "start": 4.53,
+    "end": 4.7,
+    "id": "w16"
+  },
+  {
+    "text": "Antwort",
+    "start": 4.7,
+    "end": 5.17,
+    "id": "w17"
+  },
+  {
+    "text": "kannst",
+    "start": 5.17,
+    "end": 5.58,
+    "id": "w18"
+  },
+  {
+    "text": "du",
+    "start": 5.58,
+    "end": 5.71,
+    "id": "w19"
+  },
+  {
+    "text": "noch",
+    "start": 5.71,
+    "end": 5.98,
+    "id": "w20"
+  },
+  {
+    "text": "anpassen.",
+    "start": 5.98,
+    "end": 6.76,
+    "id": "w21"
+  },
+  {
+    "text": "Erst",
+    "start": 6.79,
+    "end": 6.99,
+    "id": "w22"
+  },
+  {
+    "text": "wenn",
+    "start": 7.04,
+    "end": 7.28,
+    "id": "w23"
+  },
+  {
+    "text": "du",
+    "start": 7.28,
+    "end": 7.41,
+    "id": "w24"
+  },
+  {
+    "text": "auf",
+    "start": 7.41,
+    "end": 7.6,
+    "id": "w25"
+  },
+  {
+    "text": "Senden",
+    "start": 7.6,
+    "end": 7.99,
+    "id": "w26"
+  },
+  {
+    "text": "klickst",
+    "start": 7.99,
+    "end": 8.39,
+    "id": "w27"
+  },
+  {
+    "text": "und",
+    "start": 8.49,
+    "end": 8.63,
+    "id": "w28"
+  },
+  {
+    "text": "bestätigst,",
+    "start": 8.63,
+    "end": 9.48,
+    "id": "w29"
+  },
+  {
+    "text": "geht",
+    "start": 9.48,
+    "end": 9.68,
+    "id": "w30"
+  },
+  {
+    "text": "sie",
+    "start": 9.74,
+    "end": 9.91,
+    "id": "w31"
+  },
+  {
+    "text": "raus.",
+    "start": 9.92,
+    "end": 10.38,
+    "id": "w32"
+  }
+]

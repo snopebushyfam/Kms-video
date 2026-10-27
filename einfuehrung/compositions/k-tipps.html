@@ -1,0 +1,28 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; font-family: 'Outfit', sans-serif; }
+    #k-tipps-box {
+      position: absolute; left: 240px; right: 240px; top: 0; bottom: 0; display: flex; flex-direction: column; justify-content: center;
+    }
+    #k-tipps-logo { width: 260px; height: auto; margin-bottom: 40px; }
+    #k-tipps-title { color: #23211e; font-size: 112px; font-weight: 600; letter-spacing: -0.025em; line-height: 1.05; margin: 0; }
+    #k-tipps-sub { color: #7a746c; font-size: 36px; font-weight: 400; margin: 22px 0 0; letter-spacing: 0; }
+    .w { display: inline-block; }
+  </style>
+  <div id="root" data-composition-id="k-tipps" data-width="1920" data-height="1080">
+    <div id="k-tipps-box">
+      
+      <h1 id="k-tipps-title"><span class="w" id="k-tipps-w0">Gut</span> <span class="w" id="k-tipps-w1">zu</span> <span class="w" id="k-tipps-w2">wissen</span></h1>
+      <p id="k-tipps-sub">Kleine Helfer für jeden Tag.</p>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo('#k-tipps-w0', { opacity: 0, filter: 'blur(6px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.16, ease: 'power4.out' }, 0.2);
+    tl.fromTo('#k-tipps-w1', { opacity: 0, filter: 'blur(6px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.16, ease: 'power4.out' }, 0.28);
+    tl.fromTo('#k-tipps-w2', { opacity: 0, filter: 'blur(6px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.16, ease: 'power4.out' }, 0.36);
+    tl.fromTo('#k-tipps-sub', { color: '#ebe7df' }, { color: '#7a746c', duration: 0.5, ease: 'power2.out' }, 0.59);
+    tl.to('#k-tipps-box', { opacity: 0, filter: 'blur(8px)', duration: 0.22, ease: 'power3.in' }, 1.94);
+    window.__timelines["k-tipps"] = tl;
+  </script>
+</template>

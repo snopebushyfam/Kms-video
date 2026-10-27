@@ -1,0 +1,29 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; }
+    #s08-fade { position: absolute; inset: 0; }
+    #s08-cam {
+      position: absolute; left: 0; top: 0; width: 1920px; height: 1080px;
+      transform-origin: 0 0; overflow: hidden; background: #f3f1ec;
+      box-shadow: 0 30px 80px rgba(40, 32, 20, 0.18), 0 6px 18px rgba(40, 32, 20, 0.10);
+    }
+    #s08-video { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; object-fit: cover; }
+  </style>
+  <div id="root" data-composition-id="s08" data-width="1920" data-height="1080">
+    <div id="s08-fade">
+      <div id="s08-cam">
+        <video id="s08-video" class="clip" data-start="0" data-duration="12.633" data-track-index="0" muted playsinline src="assets/clips/final/s08.mp4"></video>
+      </div>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.set('#s08-cam', {"x":0,"y":0,"scale":1,"borderRadius":0}, 0);
+    tl.to('#s08-cam', { ...{"x":-1536,"y":-306,"scale":1.8,"borderRadius":0}, duration: 1.4, ease: 'power2.inOut' }, 0.2);
+    tl.to('#s08-cam', { ...{"x":-211.2,"y":-118.8,"scale":1.22,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 7.467);
+    tl.to('#s08-cam', { ...{"x":0,"y":0,"scale":1,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 11.233);
+    tl.fromTo('#s08-fade', { opacity: 0, filter: 'blur(10px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.55, ease: 'expo.out' }, 0);
+    tl.to('#s08-fade', { opacity: 0, filter: 'blur(8px)', duration: 0.32, ease: 'power3.in' }, 12.293);
+    window.__timelines["s08"] = tl;
+  </script>
+</template>

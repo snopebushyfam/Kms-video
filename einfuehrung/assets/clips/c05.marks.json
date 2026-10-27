@@ -1,0 +1,22 @@
+{
+ "frames": 526,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "dringend",
+   "t": 1.1
+  },
+  {
+   "label": "normal",
+   "t": 3.5
+  },
+  {
+   "label": "filter",
+   "t": 6.333
+  },
+  {
+   "label": "postfach",
+   "t": 11.9
+  }
+ ]
+}

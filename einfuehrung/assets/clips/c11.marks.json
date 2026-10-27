@@ -1,0 +1,14 @@
+{
+ "frames": 360,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "input",
+   "t": 1.533
+  },
+  {
+   "label": "ask",
+   "t": 3.5
+  }
+ ]
+}

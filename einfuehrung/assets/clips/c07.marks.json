@@ -1,0 +1,22 @@
+{
+ "frames": 413,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "appointment",
+   "t": 1.333
+  },
+  {
+   "label": "edit",
+   "t": 4.967
+  },
+  {
+   "label": "send1",
+   "t": 8.933
+  },
+  {
+   "label": "send2",
+   "t": 10.967
+  }
+ ]
+}

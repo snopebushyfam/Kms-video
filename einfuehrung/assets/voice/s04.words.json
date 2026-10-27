@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Angemeldet",
+    "start": 0.05,
+    "end": 0.63,
+    "id": "w0"
+  },
+  {
+    "text": "wirst",
+    "start": 0.68,
+    "end": 0.95,
+    "id": "w1"
+  },
+  {
+    "text": "du",
+    "start": 0.96,
+    "end": 1.02,
+    "id": "w2"
+  },
+  {
+    "text": "einmal",
+    "start": 1.09,
+    "end": 1.48,
+    "id": "w3"
+  },
+  {
+    "text": "mit",
+    "start": 1.48,
+    "end": 1.67,
+    "id": "w4"
+  },
+  {
+    "text": "deinem",
+    "start": 1.67,
+    "end": 2.03,
+    "id": "w5"
+  },
+  {
+    "text": "Microsoft-Konto,",
+    "start": 2.05,
+    "end": 3.2,
+    "id": "w6"
+  },
+  {
+    "text": "also",
+    "start": 3.21,
+    "end": 3.44,
+    "id": "w7"
+  },
+  {
+    "text": "mit",
+    "start": 3.44,
+    "end": 3.57,
+    "id": "w8"
+  },
+  {
+    "text": "denselben",
+    "start": 3.63,
+    "end": 4.16,
+    "id": "w9"
+  },
+  {
+    "text": "Zugangsdaten",
+    "start": 4.16,
+    "end": 4.9,
+    "id": "w10"
+  },
+  {
+    "text": "wie",
+    "start": 4.9,
+    "end": 5.04,
+    "id": "w11"
+  },
+  {
+    "text": "in",
+    "start": 5.04,
+    "end": 5.19,
+    "id": "w12"
+  },
+  {
+    "text": "Outlook.",
+    "start": 5.19,
+    "end": 5.81,
+    "id": "w13"
+  }
+]

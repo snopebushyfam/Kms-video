@@ -1,0 +1,14 @@
+{
+ "frames": 344,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "open",
+   "t": 1.433
+  },
+  {
+   "label": "claim",
+   "t": 8.867
+  }
+ ]
+}

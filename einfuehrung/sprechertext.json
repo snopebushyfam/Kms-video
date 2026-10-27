@@ -1,0 +1,18 @@
+[
+ {"id":"s01","titel":"Willkommen","text":"[warmly] Willkommen bei KMS. Das ist dein Kontrollzentrum. Alles, was heute wichtig ist, auf einem einzigen Bildschirm."},
+ {"id":"s02","titel":"Überblick","text":"Der Bildschirm hat drei Bereiche. Links stehen deine E-Mails. In der Mitte siehst du deine offenen Aufgaben, und darunter wartet Claude, dein Assistent. Rechts findest du Ordner, Kalender und bald auch Nahaus."},
+ {"id":"s03","titel":"Heute wichtig","text":"Ganz oben stehen die drei Dinge, die heute zählen: der nächste Termin, die dringendste E-Mail und die nächste Frist. Ein Klick, und du bist mittendrin."},
+ {"id":"s04","titel":"Anmelden","text":"Angemeldet wirst du einmal mit deinem Microsoft-Konto, also mit denselben Zugangsdaten wie in Outlook."},
+ {"id":"s05","titel":"E-Mails","text":"Claude liest jede neue E-Mail und sortiert sie für dich. Oben stehen die dringenden, darunter die normalen. Mit den Filtern siehst du zum Beispiel nur Schäden. Und oben wechselst du zwischen deinem eigenen Postfach und dem gemeinsamen Postfach des Büros."},
+ {"id":"s06","titel":"E-Mail öffnen","text":"Ein Klick öffnet die E-Mail. Claude hat sie schon zusammengefasst und eine Antwort vorbereitet. Mit „Übernehme ich“ sehen alle Kollegen sofort, dass du dich darum kümmerst."},
+ {"id":"s07","titel":"Termin und Antwort","text":"Steht ein Termin in der E-Mail, trägst du ihn mit einem Klick in den Kalender ein. Die Antwort kannst du noch anpassen. Erst wenn du auf Senden klickst und bestätigst, geht sie raus."},
+ {"id":"s08","titel":"Kalender","text":"Rechts siehst du deine Termine für heute. Mit „Woche“ blickst du auf die nächsten Tage, und ein Klick auf einen Termin zeigt dir alle Details."},
+ {"id":"s09","titel":"Die Kugel","text":"Die Kugel in der Mitte zeigt deine offenen Aufgaben. Gold ist dringend, Blau ist normal. Du kannst sie mit der Maus drehen. Und ein Klick auf die Zahl darunter öffnet die Liste aller Aufgaben."},
+ {"id":"s10","titel":"Ordner","text":"Unter Ordner findest du jede Datei auf dem Server. Tipp einfach ein Stichwort ein, zum Beispiel eine Adresse. Oder öffne einen Ordner und klick dich durch."},
+ {"id":"s11","titel":"Claude fragen","text":"Unten fragst du Claude. Schreib einfach, was du brauchst. Claude sieht sich deine E-Mails, Ordner und Termine an und antwortet in wenigen Sekunden."},
+ {"id":"s12","titel":"Entwurf","text":"Auf Wunsch schreibt Claude auch gleich die Antwort. Du prüfst sie und speicherst sie als Entwurf in Outlook. Claude bereitet vor, die Entscheidung triffst du."},
+ {"id":"s13","titel":"Abkürzungen","text":"Mit dem Schrägstrich wählst du eine Vorlage, etwa für eine Mahnung oder ein Protokoll. Und die Symbole rund um die Kugel sind Abkürzungen für häufige Aufträge."},
+ {"id":"s14","titel":"Routinen","text":"Routinen arbeiten für dich nach Zeitplan. Zum Beispiel bekommst du jeden Morgen um halb acht eine Übersicht über alles, was ansteht. Neue Ergebnisse erkennst du oben an der Zahl."},
+ {"id":"s15","titel":"Kleine Helfer","text":"Oben schaltest du zwischen hellem und dunklem Modus um. Mit „Hinweise“ meldet sich das Kontrollzentrum, sobald eine dringende E-Mail kommt. Und das Tastatur-Symbol zeigt dir alle Kurzbefehle."},
+ {"id":"s16","titel":"Abschluss","text":"[warmly] Das war's. Du bist startklar. Willkommen im Team."}
+]

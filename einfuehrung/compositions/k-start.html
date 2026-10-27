@@ -1,0 +1,27 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; font-family: 'Outfit', sans-serif; }
+    #k-start-box {
+      position: absolute; left: 0; right: 0; top: 0; bottom: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;
+    }
+    #k-start-logo { width: 260px; height: auto; margin-bottom: 40px; }
+    #k-start-title { color: #23211e; font-size: 92px; font-weight: 600; letter-spacing: -0.025em; line-height: 1.05; margin: 0; }
+    #k-start-sub { color: #7a746c; font-size: 36px; font-weight: 400; margin: 22px 0 0; letter-spacing: 0; }
+    .w { display: inline-block; }
+  </style>
+  <div id="root" data-composition-id="k-start" data-width="1920" data-height="1080">
+    <div id="k-start-box">
+      <img id="k-start-logo" src="assets/kms-logo.svg" alt="KMS" />
+      <h1 id="k-start-title"><span class="w" id="k-start-w0">Kontrollzentrum</span></h1>
+      <p id="k-start-sub">Deine Einführung</p>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo('#k-start-logo', { opacity: 0, filter: 'blur(8px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.6, ease: 'expo.out' }, 0.1);
+    tl.fromTo('#k-start-w0', { opacity: 0, filter: 'blur(6px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.16, ease: 'power4.out' }, 0.45);
+    tl.fromTo('#k-start-sub', { color: '#ebe7df' }, { color: '#7a746c', duration: 0.5, ease: 'power2.out' }, 0.68);
+    tl.to('#k-start-box', { opacity: 0, filter: 'blur(8px)', duration: 0.22, ease: 'power3.in' }, 2.94);
+    window.__timelines["k-start"] = tl;
+  </script>
+</template>

@@ -1,0 +1,29 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; }
+    #s09-fade { position: absolute; inset: 0; }
+    #s09-cam {
+      position: absolute; left: 0; top: 0; width: 1920px; height: 1080px;
+      transform-origin: 0 0; overflow: hidden; background: #f3f1ec;
+      box-shadow: 0 30px 80px rgba(40, 32, 20, 0.18), 0 6px 18px rgba(40, 32, 20, 0.10);
+    }
+    #s09-video { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; object-fit: cover; }
+  </style>
+  <div id="root" data-composition-id="s09" data-width="1920" data-height="1080">
+    <div id="s09-fade">
+      <div id="s09-cam">
+        <video id="s09-video" class="clip" data-start="0" data-duration="13.478" data-track-index="0" muted playsinline src="assets/clips/final/s09.mp4"></video>
+      </div>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.set('#s09-cam', {"x":0,"y":0,"scale":1,"borderRadius":0}, 0);
+    tl.to('#s09-cam', { ...{"x":-412,"y":-188,"scale":1.4,"borderRadius":0}, duration: 1.6, ease: 'power2.inOut' }, 0.2);
+    tl.to('#s09-cam', { ...{"x":-211.2,"y":-118.8,"scale":1.22,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 9.04);
+    tl.to('#s09-cam', { ...{"x":0,"y":0,"scale":1,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 12.278);
+    tl.fromTo('#s09-fade', { opacity: 0, filter: 'blur(10px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.55, ease: 'expo.out' }, 0);
+    tl.to('#s09-fade', { opacity: 0, filter: 'blur(8px)', duration: 0.32, ease: 'power3.in' }, 13.138);
+    window.__timelines["s09"] = tl;
+  </script>
+</template>

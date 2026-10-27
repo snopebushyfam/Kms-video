@@ -1,0 +1,158 @@
+[
+  {
+    "text": "Ganz",
+    "start": 0.02,
+    "end": 0.25,
+    "id": "w0"
+  },
+  {
+    "text": "oben",
+    "start": 0.3,
+    "end": 0.52,
+    "id": "w1"
+  },
+  {
+    "text": "stehen",
+    "start": 0.57,
+    "end": 0.95,
+    "id": "w2"
+  },
+  {
+    "text": "die",
+    "start": 0.95,
+    "end": 1.15,
+    "id": "w3"
+  },
+  {
+    "text": "drei",
+    "start": 1.15,
+    "end": 1.42,
+    "id": "w4"
+  },
+  {
+    "text": "Dinge,",
+    "start": 1.42,
+    "end": 1.9,
+    "id": "w5"
+  },
+  {
+    "text": "die",
+    "start": 1.97,
+    "end": 2.17,
+    "id": "w6"
+  },
+  {
+    "text": "heute",
+    "start": 2.17,
+    "end": 2.55,
+    "id": "w7"
+  },
+  {
+    "text": "zählen.",
+    "start": 2.55,
+    "end": 3.36,
+    "id": "w8"
+  },
+  {
+    "text": "Der",
+    "start": 3.38,
+    "end": 3.55,
+    "id": "w9"
+  },
+  {
+    "text": "nächste",
+    "start": 3.55,
+    "end": 4,
+    "id": "w10"
+  },
+  {
+    "text": "Termin,",
+    "start": 4,
+    "end": 4.52,
+    "id": "w11"
+  },
+  {
+    "text": "die",
+    "start": 4.52,
+    "end": 4.7,
+    "id": "w12"
+  },
+  {
+    "text": "dringendste",
+    "start": 4.72,
+    "end": 5.41,
+    "id": "w13"
+  },
+  {
+    "text": "E-Mail",
+    "start": 5.41,
+    "end": 5.79,
+    "id": "w14"
+  },
+  {
+    "text": "und",
+    "start": 5.88,
+    "end": 6.08,
+    "id": "w15"
+  },
+  {
+    "text": "die",
+    "start": 6.08,
+    "end": 6.28,
+    "id": "w16"
+  },
+  {
+    "text": "nächste",
+    "start": 6.72,
+    "end": 6.89,
+    "id": "w17"
+  },
+  {
+    "text": "Frist.",
+    "start": 6.89,
+    "end": 7.56,
+    "id": "w18"
+  },
+  {
+    "text": "Ein",
+    "start": 7.58,
+    "end": 7.76,
+    "id": "w19"
+  },
+  {
+    "text": "Klick",
+    "start": 7.76,
+    "end": 8.08,
+    "id": "w20"
+  },
+  {
+    "text": "und",
+    "start": 8.13,
+    "end": 8.28,
+    "id": "w21"
+  },
+  {
+    "text": "du",
+    "start": 8.29,
+    "end": 8.42,
+    "id": "w22"
+  },
+  {
+    "text": "bist",
+    "start": 8.42,
+    "end": 8.69,
+    "id": "w23"
+  },
+  {
+    "text": "mitten",
+    "start": 8.69,
+    "end": 9.07,
+    "id": "w24"
+  },
+  {
+    "text": "drin.",
+    "start": 9.13,
+    "end": 9.6,
+    "id": "w25"
+  }
+]

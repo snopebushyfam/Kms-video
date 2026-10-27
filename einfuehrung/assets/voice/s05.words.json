@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Klot",
+    "start": 0.03,
+    "end": 0.31,
+    "id": "w0"
+  },
+  {
+    "text": "liest",
+    "start": 0.37,
+    "end": 0.72,
+    "id": "w1"
+  },
+  {
+    "text": "jede",
+    "start": 0.83,
+    "end": 1.11,
+    "id": "w2"
+  },
+  {
+    "text": "neue",
+    "start": 1.11,
+    "end": 1.43,
+    "id": "w3"
+  },
+  {
+    "text": "E-Mail",
+    "start": 1.49,
+    "end": 1.94,
+    "id": "w4"
+  },
+  {
+    "text": "und",
+    "start": 2.02,
+    "end": 2.18,
+    "id": "w5"
+  },
+  {
+    "text": "sortiert",
+    "start": 2.2,
+    "end": 2.67,
+    "id": "w6"
+  },
+  {
+    "text": "sie",
+    "start": 2.76,
+    "end": 2.93,
+    "id": "w7"
+  },
+  {
+    "text": "für",
+    "start": 2.93,
+    "end": 3.13,
+    "id": "w8"
+  },
+  {
+    "text": "dich.",
+    "start": 3.13,
+    "end": 3.62,
+    "id": "w9"
+  },
+  {
+    "text": "Oben",
+    "start": 3.65,
+    "end": 3.88,
+    "id": "w10"
+  },
+  {
+    "text": "stehen",
+    "start": 3.88,
+    "end": 4.28,
+    "id": "w11"
+  },
+  {
+    "text": "die",
+    "start": 4.29,
+    "end": 4.49,
+    "id": "w12"
+  },
+  {
+    "text": "dringenden,",
+    "start": 4.49,
+    "end": 5.29,
+    "id": "w13"
+  },
+  {
+    "text": "darunter",
+    "start": 5.29,
+    "end": 5.83,
+    "id": "w14"
+  },
+  {
+    "text": "die",
+    "start": 5.83,
+    "end": 6.03,
+    "id": "w15"
+  },
+  {
+    "text": "normalen.",
+    "start": 6.03,
+    "end": 6.81,
+    "id": "w16"
+  },
+  {
+    "text": "Mit",
+    "start": 6.91,
+    "end": 7.09,
+    "id": "w17"
+  },
+  {
+    "text": "den",
+    "start": 7.09,
+    "end": 7.27,
+    "id": "w18"
+  },
+  {
+    "text": "Filtern",
+    "start": 7.38,
+    "end": 7.79,
+    "id": "w19"
+  },
+  {
+    "text": "siehst",
+    "start": 7.79,
+    "end": 8.21,
+    "id": "w20"
+  },
+  {
+    "text": "du",
+    "start": 8.21,
+    "end": 8.31,
+    "id": "w21"
+  },
+  {
+    "text": "zum",
+    "start": 8.37,
+    "end": 8.56,
+    "id": "w22"
+  },
+  {
+    "text": "Beispiel",
+    "start": 8.56,
+    "end": 9.13,
+    "id": "w23"
+  },
+  {
+    "text": "nur",
+    "start": 9.13,
+    "end": 9.34,
+    "id": "w24"
+  },
+  {
+    "text": "Schäden.",
+    "start": 9.34,
+    "end": 9.94,
+    "id": "w25"
+  },
+  {
+    "text": "Und",
+    "start": 9.97,
+    "end": 10.13,
+    "id": "w26"
+  },
+  {
+    "text": "oben",
+    "start": 10.13,
+    "end": 10.33,
+    "id": "w27"
+  },
+  {
+    "text": "wechselst",
+    "start": 10.44,
+    "end": 10.95,
+    "id": "w28"
+  },
+  {
+    "text": "du",
+    "start": 11,
+    "end": 11.11,
+    "id": "w29"
+  },
+  {
+    "text": "zwischen",
+    "start": 11.11,
+    "end": 11.64,
+    "id": "w30"
+  },
+  {
+    "text": "deinem",
+    "start": 11.64,
+    "end": 12.03,
+    "id": "w31"
+  },
+  {
+    "text": "eigenen",
+    "start": 12.03,
+    "end": 12.42,
+    "id": "w32"
+  },
+  {
+    "text": "Postfach",
+    "start": 12.51,
+    "end": 13.05,
+    "id": "w33"
+  },
+  {
+    "text": "und",
+    "start": 13.05,
+    "end": 13.15,
+    "id": "w34"
+  },
+  {
+    "text": "dem",
+    "start": 13.15,
+    "end": 13.63,
+    "id": "w35"
+  },
+  {
+    "text": "gemeinsamen",
+    "start": 13.63,
+    "end": 14.14,
+    "id": "w36"
+  },
+  {
+    "text": "Postfach",
+    "start": 14.14,
+    "end": 14.65,
+    "id": "w37"
+  },
+  {
+    "text": "des",
+    "start": 14.65,
+    "end": 14.84,
+    "id": "w38"
+  },
+  {
+    "text": "Büros.",
+    "start": 14.84,
+    "end": 15.4,
+    "id": "w39"
+  }
+]

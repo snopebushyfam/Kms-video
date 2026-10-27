@@ -1,0 +1,26 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; font-family: 'Outfit', sans-serif; }
+    #k-ordner-box {
+      position: absolute; left: 240px; right: 240px; top: 0; bottom: 0; display: flex; flex-direction: column; justify-content: center;
+    }
+    #k-ordner-logo { width: 260px; height: auto; margin-bottom: 40px; }
+    #k-ordner-title { color: #23211e; font-size: 112px; font-weight: 600; letter-spacing: -0.025em; line-height: 1.05; margin: 0; }
+    #k-ordner-sub { color: #7a746c; font-size: 36px; font-weight: 400; margin: 22px 0 0; letter-spacing: 0; }
+    .w { display: inline-block; }
+  </style>
+  <div id="root" data-composition-id="k-ordner" data-width="1920" data-height="1080">
+    <div id="k-ordner-box">
+      
+      <h1 id="k-ordner-title"><span class="w" id="k-ordner-w0">Ordner</span></h1>
+      <p id="k-ordner-sub">Jede Datei in Sekunden.</p>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo('#k-ordner-w0', { opacity: 0, filter: 'blur(6px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.16, ease: 'power4.out' }, 0.2);
+    tl.fromTo('#k-ordner-sub', { color: '#ebe7df' }, { color: '#7a746c', duration: 0.5, ease: 'power2.out' }, 0.43);
+    tl.to('#k-ordner-box', { opacity: 0, filter: 'blur(8px)', duration: 0.22, ease: 'power3.in' }, 1.94);
+    window.__timelines["k-ordner"] = tl;
+  </script>
+</template>

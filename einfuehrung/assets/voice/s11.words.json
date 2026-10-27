@@ -1,0 +1,140 @@
+[
+  {
+    "text": "Unten",
+    "start": 0.05,
+    "end": 0.36,
+    "id": "w0"
+  },
+  {
+    "text": "fragst",
+    "start": 0.36,
+    "end": 0.79,
+    "id": "w1"
+  },
+  {
+    "text": "du",
+    "start": 0.79,
+    "end": 0.92,
+    "id": "w2"
+  },
+  {
+    "text": "Claude.",
+    "start": 0.93,
+    "end": 1.62,
+    "id": "w3"
+  },
+  {
+    "text": "Schreib",
+    "start": 1.69,
+    "end": 2.02,
+    "id": "w4"
+  },
+  {
+    "text": "einfach,",
+    "start": 2.02,
+    "end": 2.5,
+    "id": "w5"
+  },
+  {
+    "text": "was",
+    "start": 2.54,
+    "end": 2.71,
+    "id": "w6"
+  },
+  {
+    "text": "du",
+    "start": 2.71,
+    "end": 2.82,
+    "id": "w7"
+  },
+  {
+    "text": "brauchst.",
+    "start": 2.82,
+    "end": 3.5,
+    "id": "w8"
+  },
+  {
+    "text": "Claude",
+    "start": 3.55,
+    "end": 3.89,
+    "id": "w9"
+  },
+  {
+    "text": "zieht",
+    "start": 3.98,
+    "end": 4.23,
+    "id": "w10"
+  },
+  {
+    "text": "sich",
+    "start": 4.27,
+    "end": 4.55,
+    "id": "w11"
+  },
+  {
+    "text": "deine",
+    "start": 4.55,
+    "end": 4.8,
+    "id": "w12"
+  },
+  {
+    "text": "E-Mails,",
+    "start": 4.97,
+    "end": 5.53,
+    "id": "w13"
+  },
+  {
+    "text": "Ordner",
+    "start": 5.53,
+    "end": 5.95,
+    "id": "w14"
+  },
+  {
+    "text": "und",
+    "start": 5.95,
+    "end": 6.16,
+    "id": "w15"
+  },
+  {
+    "text": "Termine",
+    "start": 6.16,
+    "end": 6.65,
+    "id": "w16"
+  },
+  {
+    "text": "an",
+    "start": 6.65,
+    "end": 6.7,
+    "id": "w17"
+  },
+  {
+    "text": "und",
+    "start": 6.7,
+    "end": 7.06,
+    "id": "w18"
+  },
+  {
+    "text": "antwortet",
+    "start": 7.06,
+    "end": 7.6,
+    "id": "w19"
+  },
+  {
+    "text": "in",
+    "start": 7.6,
+    "end": 7.7,
+    "id": "w20"
+  },
+  {
+    "text": "wenigen",
+    "start": 7.75,
+    "end": 8.2,
+    "id": "w21"
+  },
+  {
+    "text": "Sekunden.",
+    "start": 8.2,
+    "end": 9,
+    "id": "w22"
+  }
+]

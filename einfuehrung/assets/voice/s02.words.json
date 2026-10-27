@@ -1,0 +1,200 @@
+[
+  {
+    "text": "Der",
+    "start": 0.04,
+    "end": 0.18,
+    "id": "w0"
+  },
+  {
+    "text": "Bildschirm",
+    "start": 0.23,
+    "end": 0.81,
+    "id": "w1"
+  },
+  {
+    "text": "hat",
+    "start": 0.93,
+    "end": 1.12,
+    "id": "w2"
+  },
+  {
+    "text": "drei",
+    "start": 1.12,
+    "end": 1.4,
+    "id": "w3"
+  },
+  {
+    "text": "Bereiche.",
+    "start": 1.4,
+    "end": 2.04,
+    "id": "w4"
+  },
+  {
+    "text": "Links",
+    "start": 2.08,
+    "end": 2.47,
+    "id": "w5"
+  },
+  {
+    "text": "stehen",
+    "start": 2.48,
+    "end": 3.01,
+    "id": "w6"
+  },
+  {
+    "text": "deine",
+    "start": 3.01,
+    "end": 3.45,
+    "id": "w7"
+  },
+  {
+    "text": "E-Mails.",
+    "start": 3.45,
+    "end": 4.12,
+    "id": "w8"
+  },
+  {
+    "text": "In",
+    "start": 4.16,
+    "end": 4.25,
+    "id": "w9"
+  },
+  {
+    "text": "der",
+    "start": 4.25,
+    "end": 4.45,
+    "id": "w10"
+  },
+  {
+    "text": "Mitte",
+    "start": 4.45,
+    "end": 4.78,
+    "id": "w11"
+  },
+  {
+    "text": "siehst",
+    "start": 4.78,
+    "end": 5.18,
+    "id": "w12"
+  },
+  {
+    "text": "du",
+    "start": 5.18,
+    "end": 5.31,
+    "id": "w13"
+  },
+  {
+    "text": "deine",
+    "start": 5.31,
+    "end": 5.64,
+    "id": "w14"
+  },
+  {
+    "text": "offenen",
+    "start": 5.64,
+    "end": 5.94,
+    "id": "w15"
+  },
+  {
+    "text": "Aufgaben.",
+    "start": 6.32,
+    "end": 6.68,
+    "id": "w16"
+  },
+  {
+    "text": "Und",
+    "start": 6.72,
+    "end": 6.86,
+    "id": "w17"
+  },
+  {
+    "text": "darunter",
+    "start": 6.91,
+    "end": 7.49,
+    "id": "w18"
+  },
+  {
+    "text": "wartet",
+    "start": 7.49,
+    "end": 7.92,
+    "id": "w19"
+  },
+  {
+    "text": "Claude,",
+    "start": 7.93,
+    "end": 8.5,
+    "id": "w20"
+  },
+  {
+    "text": "dein",
+    "start": 8.5,
+    "end": 8.88,
+    "id": "w21"
+  },
+  {
+    "text": "Assistent.",
+    "start": 8.88,
+    "end": 9.76,
+    "id": "w22"
+  },
+  {
+    "text": "Rechts",
+    "start": 9.8,
+    "end": 10.21,
+    "id": "w23"
+  },
+  {
+    "text": "findest",
+    "start": 10.21,
+    "end": 10.73,
+    "id": "w24"
+  },
+  {
+    "text": "du",
+    "start": 10.73,
+    "end": 10.88,
+    "id": "w25"
+  },
+  {
+    "text": "Ordner,",
+    "start": 10.88,
+    "end": 11.47,
+    "id": "w26"
+  },
+  {
+    "text": "Kalender",
+    "start": 11.47,
+    "end": 12.12,
+    "id": "w27"
+  },
+  {
+    "text": "und",
+    "start": 12.12,
+    "end": 12.34,
+    "id": "w28"
+  },
+  {
+    "text": "bald",
+    "start": 12.46,
+    "end": 12.68,
+    "id": "w29"
+  },
+  {
+    "text": "auch",
+    "start": 12.68,
+    "end": 12.97,
+    "id": "w30"
+  },
+  {
+    "text": "nah",
+    "start": 13.05,
+    "end": 13.24,
+    "id": "w31"
+  },
+  {
+    "text": "aus.",
+    "start": 13.24,
+    "end": 13.67,
+    "id": "w32"
+  }
+]

@@ -1,0 +1,14 @@
+{
+ "frames": 352,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "skill",
+   "t": 1.533
+  },
+  {
+   "label": "orbit",
+   "t": 4.133
+  }
+ ]
+}

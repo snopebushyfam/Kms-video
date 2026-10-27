@@ -1,0 +1,30 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; background: #ebe7df; overflow: hidden; }
+    #s14-fade { position: absolute; inset: 0; }
+    #s14-cam {
+      position: absolute; left: 0; top: 0; width: 1920px; height: 1080px;
+      transform-origin: 0 0; overflow: hidden; background: #f3f1ec;
+      box-shadow: 0 30px 80px rgba(40, 32, 20, 0.18), 0 6px 18px rgba(40, 32, 20, 0.10);
+    }
+    #s14-video { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; object-fit: cover; }
+  </style>
+  <div id="root" data-composition-id="s14" data-width="1920" data-height="1080">
+    <div id="s14-fade">
+      <div id="s14-cam">
+        <video id="s14-video" class="clip" data-start="0" data-duration="13.252" data-track-index="0" muted playsinline src="assets/clips/final/s14.mp4"></video>
+      </div>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.set('#s14-cam', {"x":0,"y":0,"scale":1,"borderRadius":0}, 0);
+    tl.to('#s14-cam', { ...{"x":-1570,"y":0,"scale":2.2,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 0.2);
+    tl.to('#s14-cam', { ...{"x":-240,"y":0,"scale":1.25,"borderRadius":0}, duration: 1, ease: 'power2.inOut' }, 1.533);
+    tl.to('#s14-cam', { ...{"x":-240,"y":-260,"scale":1.25,"borderRadius":0}, duration: 1.4, ease: 'power2.inOut' }, 6.2);
+    tl.to('#s14-cam', { ...{"x":0,"y":0,"scale":1,"borderRadius":0}, duration: 0.9, ease: 'power2.inOut' }, 12.252);
+    tl.fromTo('#s14-fade', { opacity: 0, filter: 'blur(10px)' }, { opacity: 1, filter: 'blur(0px)', duration: 0.55, ease: 'expo.out' }, 0);
+    tl.to('#s14-fade', { opacity: 0, filter: 'blur(8px)', duration: 0.32, ease: 'power3.in' }, 12.912);
+    window.__timelines["s14"] = tl;
+  </script>
+</template>

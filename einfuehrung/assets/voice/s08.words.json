@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Rechts",
+    "start": 0.03,
+    "end": 0.45,
+    "id": "w0"
+  },
+  {
+    "text": "siehst",
+    "start": 0.45,
+    "end": 0.89,
+    "id": "w1"
+  },
+  {
+    "text": "du",
+    "start": 0.89,
+    "end": 1.04,
+    "id": "w2"
+  },
+  {
+    "text": "deine",
+    "start": 1.04,
+    "end": 1.41,
+    "id": "w3"
+  },
+  {
+    "text": "Termine",
+    "start": 1.41,
+    "end": 1.93,
+    "id": "w4"
+  },
+  {
+    "text": "für",
+    "start": 1.93,
+    "end": 2.15,
+    "id": "w5"
+  },
+  {
+    "text": "heute,",
+    "start": 2.15,
+    "end": 2.64,
+    "id": "w6"
+  },
+  {
+    "text": "mit",
+    "start": 2.68,
+    "end": 2.93,
+    "id": "w7"
+  },
+  {
+    "text": "Woche",
+    "start": 3.06,
+    "end": 3.42,
+    "id": "w8"
+  },
+  {
+    "text": "blickst",
+    "start": 3.42,
+    "end": 3.95,
+    "id": "w9"
+  },
+  {
+    "text": "du",
+    "start": 3.95,
+    "end": 4.1,
+    "id": "w10"
+  },
+  {
+    "text": "auf",
+    "start": 4.1,
+    "end": 4.33,
+    "id": "w11"
+  },
+  {
+    "text": "die",
+    "start": 4.33,
+    "end": 4.52,
+    "id": "w12"
+  },
+  {
+    "text": "nächsten",
+    "start": 4.56,
+    "end": 5.17,
+    "id": "w13"
+  },
+  {
+    "text": "Tage",
+    "start": 5.17,
+    "end": 5.28,
+    "id": "w14"
+  },
+  {
+    "text": "und",
+    "start": 5.56,
+    "end": 5.71,
+    "id": "w15"
+  },
+  {
+    "text": "ein",
+    "start": 5.71,
+    "end": 5.85,
+    "id": "w16"
+  },
+  {
+    "text": "Klick",
+    "start": 5.91,
+    "end": 6.21,
+    "id": "w17"
+  },
+  {
+    "text": "auf",
+    "start": 6.21,
+    "end": 6.39,
+    "id": "w18"
+  },
+  {
+    "text": "einen",
+    "start": 6.4,
+    "end": 6.68,
+    "id": "w19"
+  },
+  {
+    "text": "Termin",
+    "start": 6.78,
+    "end": 7.09,
+    "id": "w20"
+  },
+  {
+    "text": "zeigt",
+    "start": 7.09,
+    "end": 7.41,
+    "id": "w21"
+  },
+  {
+    "text": "dir",
+    "start": 7.41,
+    "end": 7.59,
+    "id": "w22"
+  },
+  {
+    "text": "alle",
+    "start": 7.59,
+    "end": 7.8,
+    "id": "w23"
+  },
+  {
+    "text": "Details.",
+    "start": 8.2,
+    "end": 8.45,
+    "id": "w24"
+  }
+]

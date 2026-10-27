@@ -1,0 +1,14 @@
+{
+ "frames": 428,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "suche",
+   "t": 1.533
+  },
+  {
+   "label": "ordner",
+   "t": 6.767
+  }
+ ]
+}

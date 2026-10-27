@@ -1,0 +1,18 @@
+{
+ "frames": 415,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "dunkel",
+   "t": 1.533
+  },
+  {
+   "label": "hinweise",
+   "t": 6.867
+  },
+  {
+   "label": "kuerzel",
+   "t": 9.8
+  }
+ ]
+}

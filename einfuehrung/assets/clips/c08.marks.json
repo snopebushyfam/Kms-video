@@ -1,0 +1,14 @@
+{
+ "frames": 379,
+ "fps": 30,
+ "marks": [
+  {
+   "label": "woche",
+   "t": 3.933
+  },
+  {
+   "label": "event",
+   "t": 7.467
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Auf",
+    "start": 0.04,
+    "end": 0.15,
+    "id": "w0"
+  },
+  {
+    "text": "Wunsch",
+    "start": 0.24,
+    "end": 0.54,
+    "id": "w1"
+  },
+  {
+    "text": "schreibt",
+    "start": 0.54,
+    "end": 1,
+    "id": "w2"
+  },
+  {
+    "text": "Klod",
+    "start": 1.02,
+    "end": 1.26,
+    "id": "w3"
+  },
+  {
+    "text": "auch",
+    "start": 1.26,
+    "end": 1.49,
+    "id": "w4"
+  },
+  {
+    "text": "gleich",
+    "start": 1.5,
+    "end": 1.86,
+    "id": "w5"
+  },
+  {
+    "text": "die",
+    "start": 1.86,
+    "end": 2.01,
+    "id": "w6"
+  },
+  {
+    "text": "Antwort.",
+    "start": 2.09,
+    "end": 2.7,
+    "id": "w7"
+  },
+  {
+    "text": "Du",
+    "start": 2.74,
+    "end": 2.84,
+    "id": "w8"
+  },
+  {
+    "text": "prüfst",
+    "start": 2.96,
+    "end": 3.46,
+    "id": "w9"
+  },
+  {
+    "text": "sie",
+    "start": 3.46,
+    "end": 3.78,
+    "id": "w10"
+  },
+  {
+    "text": "und",
+    "start": 3.78,
+    "end": 3.89,
+    "id": "w11"
+  },
+  {
+    "text": "speicherst",
+    "start": 3.94,
+    "end": 4.33,
+    "id": "w12"
+  },
+  {
+    "text": "sie",
+    "start": 4.35,
+    "end": 4.48,
+    "id": "w13"
+  },
+  {
+    "text": "als",
+    "start": 4.48,
+    "end": 4.71,
+    "id": "w14"
+  },
+  {
+    "text": "Entwurf",
+    "start": 4.79,
+    "end": 5.1,
+    "id": "w15"
+  },
+  {
+    "text": "in",
+    "start": 5.54,
+    "end": 5.62,
+    "id": "w16"
+  },
+  {
+    "text": "Outlook.",
+    "start": 5.68,
+    "end": 6.4,
+    "id": "w17"
+  },
+  {
+    "text": "Klod",
+    "start": 6.44,
+    "end": 6.76,
+    "id": "w18"
+  },
+  {
+    "text": "bereitet",
+    "start": 6.76,
+    "end": 7.5,
+    "id": "w19"
+  },
+  {
+    "text": "vor,",
+    "start": 7.5,
+    "end": 7.89,
+    "id": "w20"
+  },
+  {
+    "text": "die",
+    "start": 7.9,
+    "end": 8.07,
+    "id": "w21"
+  },
+  {
+    "text": "Entscheidung",
+    "start": 8.07,
+    "end": 8.75,
+    "id": "w22"
+  },
+  {
+    "text": "triffst",
+    "start": 8.75,
+    "end": 9.16,
+    "id": "w23"
+  },
+  {
+    "text": "du.",
+    "start": 9.24,
+    "end": 9.48,
+    "id": "w24"
+  }
+]
